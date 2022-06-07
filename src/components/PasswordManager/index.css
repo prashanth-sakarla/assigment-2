@@ -1,0 +1,151 @@
+.password-manager-container {
+  background-color: #9ba9eb;
+  background-size: cover;
+  min-height: 100vh;
+}
+.logo-image {
+  height: 70px;
+  width: 150px;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.card-1 {
+  width: 80%;
+  height: 50%;
+  margin-bottom: 20px;
+  background-color: #5763a5;
+  display: flex;
+  justify-content: space-around;
+  border-radius: 12px;
+}
+.card-2 {
+  width: 80%;
+  height: 50%;
+  border-radius: 12px;
+  background-color: #5763a5;
+}
+
+.cards-container {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}
+.inputs-container {
+  height: 270px;
+  width: 270px;
+  margin-top: 30px;
+  margin-left: 30px;
+  background-color: #454f84;
+  margin-bottom: 20px;
+}
+.password-image {
+  height: 270px;
+  width: 270px;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 13px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.input-element {
+  height: 30px;
+  width: 230px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.search-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.text-search {
+  border: none;
+  outline: none;
+}
+.line {
+  width: 1px;
+}
+
+.button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-size: 15px;
+  border: none;
+  outline: none;
+  padding: 5px;
+  align-self: flex-end;
+  margin-right: 30px;
+  border-radius: 6px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.button-container {
+  display: flex;
+  flex-direction: column;
+}
+.password-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 15px;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+.password-search-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.text-search1 {
+  border: none;
+  outline: none;
+}
+.input-element-search {
+  height: 30px;
+  width: 230px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+.separator {
+  width: 90%;
+}
+.show-password-button-container {
+  display: flex;
+  flex-direction: column;
+}
+.show-password {
+  align-self: flex-end;
+  margin-right: 40px;
+}
+.no-password {
+  height: 270px;
+  width: 270px;
+}
+.no-password-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.password-list-container {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.list-items-containe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
